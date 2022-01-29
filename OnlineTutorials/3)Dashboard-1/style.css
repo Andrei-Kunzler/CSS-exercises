@@ -171,3 +171,7 @@ main {
 {
     color: #fff;
 }
+table
+{
+    border-collapse:collapse;
+}
